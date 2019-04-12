@@ -197,3 +197,5 @@ zle     -N   fzf-completion
 bindkey '^I' fzf-completion
 
 fi
+
+source fzf.plugin.zsh
